@@ -1,0 +1,27 @@
+/*#cv-form{
+    display:none;
+}*/
+
+#cv-template{
+    display:none;
+}
+
+body
+{
+    background: rgb(154, 206, 219);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.myimg {
+    border-style:outset;
+    overflow: hidden;
+    border-radius: 50%;
+    width: 250px;
+}
+ 
+.background{
+    background-color: cadetblue;
+}
